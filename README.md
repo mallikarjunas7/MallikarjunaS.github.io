@@ -1,4 +1,4 @@
-# Nischal S — RPA Developer Portfolio
+# Mallikarjuna S — RPA Developer Portfolio
 
 ## Customize
 - Replace `YOUR_EMAIL@example.com` in `index.html`.
